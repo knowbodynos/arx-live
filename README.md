@@ -7,7 +7,7 @@ Uses:
 
 1) The [arXiv API](https://arxiv.org/help/api/index).
 
-2) Natural Language Toolkit (NTLK).
+2) [Natural Language Toolkit (NTLK)](https://github.com/nltk/nltk).
 
 Works by:
 ---
