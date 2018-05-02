@@ -5,14 +5,14 @@
 Uses:
 ---
 
-1) The [arXiv API](https://arxiv.org/help/api/index)
+1) The [arXiv API](https://arxiv.org/help/api/index).
 
 2) Natural Language Toolkit (NTLK).
 
 Works by:
 ---
 
-1) Scraping eprint abstracts from the arXiv servers from any query.
+1) Scraping eprint abstracts from the [arXiv](https://arxiv.org/) servers from any query.
 
 2) Cleaning eacho abstract by removing MathJax/LaTeX tags, extra whitespace, punctuation, and common stopwords, and then by fixing the case of the remaining text.
 
